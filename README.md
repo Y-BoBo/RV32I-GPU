@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://static.wixstatic.com/media/841f2a_ec3de0c290c14fddb9f4c3e90d85d9d6~mv2.png/v1/fill/w_369,h_228,al_c,lg_1,q_85/Logo_RV64X_Proposal.webp"><img src="https://static.wixstatic.com/media/841f2a_ec3de0c290c14fddb9f4c3e90d85d9d6~mv2.png/v1/fill/w_369,h_228,al_c,lg_1,q_85/Logo_RV64X_Proposal.webp" alt="RV64X" width="200"></a>
-  <br>
+  <a href="https://static.wixstatic.com/media/841f2a_ec3de0c290c14fddb9f4c3e90d85d9d6~mv2.png"><img src="https://static.wixstatic.com/media/841f2a_ec3de0c290c14fddb9f4c3e90d85d9d6~mv2.png" alt="RV64X" width="200"></a>  <br>
   RV64X
   <br>
 </h1>
@@ -10,7 +9,7 @@
 
 <p align="center">
   <a href=""></a>
-  <a href=""><img src="https://cdn.worldvectorlogo.com/logos/slack.svg"  style="width:60px;height:60px;"></a>
+  <a href=""><img src="https://static.wixstatic.com/media/841f2a_704ce8b0a76e42349eebbe2ba74b285c~mv2.png"></a>
 </p>
 
 
